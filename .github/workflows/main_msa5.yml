@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'msa5'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A16591EE276D47C7B7868A88963CCF8D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10D4974985FE426C80DA590D43A0ADC7 }}
           package: '*.jar'
